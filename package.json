@@ -1,0 +1,14 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
